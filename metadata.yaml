@@ -1,0 +1,24 @@
+_repo: Our-Little-Korean-Cousin_12048
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pike, H. Lee M. (Henry Lee Mitchell)
+    alias: Pike, Henry Lee Mitchell
+    birthdate: 1865
+    gutenberg_agent_id: '4197'
+    url: http://www.gutenberg.org/2009/agents/4197
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Korea -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+title: Our Little Korean Cousin
+url: http://www.gutenberg.org/ebooks/12048
